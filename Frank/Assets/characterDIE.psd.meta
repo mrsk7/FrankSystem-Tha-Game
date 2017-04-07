@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: e1947062b50cbad419b8b16396f809a8
+timeCreated: 1486592156
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: characterDIE_0
+    21300002: characterDIE_1
+    21300004: characterDIE_2
+    21300006: characterDIE_3
+    21300008: characterDIE_4
+    21300010: characterDIE_5
+    21300012: characterDIE_6
+    21300014: characterDIE_7
+    21300016: characterDIE_8
+    21300018: characterDIE_9
+    21300020: characterDIE_10
+    21300022: characterDIE_11
+    21300024: characterDIE_12
+    21300026: characterDIE_13
+    21300028: characterDIE_14
+    21300030: characterDIE_15
+    21300032: characterDIE_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: characterDIE_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2036
+        width: 395
+        height: 743
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 2040
+        width: 449
+        height: 753
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_2
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2031
+        width: 476
+        height: 666
+      alignment: 9
+      pivot: {x: 0.33806962, y: 0.57715577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_3
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 2036
+        width: 363
+        height: 580
+      alignment: 9
+      pivot: {x: 0.41742364, y: 0.6550432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_4
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 2036
+        width: 436
+        height: 539
+      alignment: 9
+      pivot: {x: 0.36249956, y: 0.71450496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_5
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 2036
+        width: 567
+        height: 457
+      alignment: 9
+      pivot: {x: 0.36405846, y: 0.8279546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_6
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 2036
+        width: 657
+        height: 349
+      alignment: 9
+      pivot: {x: 0.33053854, y: 1.0889497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1455
+        width: 844
+        height: 172
+      alignment: 9
+      pivot: {x: 0.35, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_8
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1455
+        width: 844
+        height: 172
+      alignment: 9
+      pivot: {x: 0.35, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_9
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1455
+        width: 843
+        height: 172
+      alignment: 9
+      pivot: {x: 0.35, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_10
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 1455
+        width: 844
+        height: 172
+      alignment: 9
+      pivot: {x: 0.35, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 834
+        width: 844
+        height: 172
+      alignment: 9
+      pivot: {x: 0.03, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_12
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 834
+        width: 843
+        height: 172
+      alignment: 9
+      pivot: {x: 0.74, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_13
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 834
+        width: 848
+        height: 172
+      alignment: 9
+      pivot: {x: 0.02, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_14
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 834
+        width: 844
+        height: 172
+      alignment: 9
+      pivot: {x: 0.89, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 240
+        width: 844
+        height: 173
+      alignment: 9
+      pivot: {x: -0.24, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: characterDIE_16
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 236
+        width: 843
+        height: 173
+      alignment: 9
+      pivot: {x: 0.35, y: 2.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
